@@ -2,22 +2,22 @@
 
 ## Only valid C++ data types are included, with their usual size in bytes
 
-+--------------------+---------------------------+
-| Data Type          | Size (in bytes)           |
-+--------------------+---------------------------+
-| char               | 1 byte                    |
-| int                | 4 bytes                   |
-| signed int         | 4 bytes                   |
-| unsigned int       | 4 bytes                   |
-| short int          | 2 bytes                   |
-| long int           | 4 or 8 bytes              |
-| signed long int    | 4 or 8 bytes              |
-| unsigned long int  | 4 or 8 bytes              |
-| float              | 4 bytes                   |
-| double             | 8 bytes                   |
-| long double        | 8 or 16 bytes             |
-| string             | Implementation dependent* |
-+--------------------+---------------------------+
+### +--------------------+---------------------------+
+### | Data Type          | Size (in bytes)           |
+### +--------------------+---------------------------+
+### | char               | 1 byte                    |
+### | int                | 4 bytes                   |
+### | signed int         | 4 bytes                   |
+### | unsigned int       | 4 bytes                   |
+### | short int          | 2 bytes                   |
+### | long int           | 4 or 8 bytes              |
+### | signed long int    | 4 or 8 bytes              |
+### | unsigned long int  | 4 or 8 bytes              |
+### | float              | 4 bytes                   |
+### | double             | 8 bytes                   |
+### | long double        | 8 or 16 bytes             |
+### | string             | Implementation dependent* |
+### +--------------------+---------------------------+
 
 ##  string size represents the object size, not the length of the text stored.
 
