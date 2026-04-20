@@ -73,6 +73,10 @@ int main() {
     cout << "char: Stores a single character. Value = " << k
          << ", Size = " << sizeof(k) << " byte" << endl;
 
+    bool m = true;
+    cout << "bool: Stores boolean values (true or false). Value = " << m
+         << ", Size = " << sizeof(m) << " byte" << endl;
+
     string l = "Hello";
     cout << "string: Stores a sequence of characters. Value = " << l
          << ", Size = " << sizeof(l) << " bytes (object size)" << endl;
