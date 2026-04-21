@@ -138,4 +138,4 @@ max = (a > b) ? a : b;
 If condition is true → first value is chosen
 If condition is false → second value is chosen
 
-✔ Supports expressions and nested conditions
+✔ Supports expressions and nested conditionsgit
