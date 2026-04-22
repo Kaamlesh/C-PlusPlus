@@ -28,8 +28,7 @@ int main()
 }
 /*
 An array in C++ is a fixed-size, linear data structure used to store a sequential collection of elements of the same data type in contiguous memory locations. Instead of declaring separate variables for related data, arrays allow you to manage them under a single name. 
-GeeksforGeeks
-GeeksforGeeks
+
  +2
 Key Characteristics
 Fixed Size: The number of elements an array can hold is determined at the time of declaration and cannot be changed during program execution.
